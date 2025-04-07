@@ -6,6 +6,7 @@ import Hero from '../Hero/Hero'
 import BestSeller from '../BestSeller/BestSeller'
 import Article from '../Article/Article'
 import Categories from '../Categories/Categories'
+import Footer from '../Footer/Footer'
 
 const Home = () => {
   return (
@@ -16,6 +17,11 @@ const Home = () => {
         <BestSeller />
         <Article />
         <Categories />
+        <hr />
+        <Footer />
+
+        
+
 
     </div>
   )

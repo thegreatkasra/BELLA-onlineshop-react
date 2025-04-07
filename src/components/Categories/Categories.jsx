@@ -96,7 +96,9 @@ const Categories = () => {
                 
                 
             </div>
+            
         </div>
+        
 
                 
   )

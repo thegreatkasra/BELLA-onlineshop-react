@@ -39,7 +39,7 @@ const Article = () => {
             </div>
 
         </div>
-            
+        
 
     </div>
   )
