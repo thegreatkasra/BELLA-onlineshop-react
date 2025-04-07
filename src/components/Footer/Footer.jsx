@@ -5,11 +5,11 @@ const Footer = () => {
     <div>
         <footer>
 
-            <div class="logo">
+            <div className="logo">
                 <a href="#">BELLA</a>
             </div>
 
-            <div class="footerNav">
+            <div className="footerNav">
                 <ul>
                     <li><h1>Information</h1></li>
                     <li>Shipping</li>
@@ -39,7 +39,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-            <div class="subscribe">
+            <div className="subscribe">
                 <h1>Subscribe For Updates</h1>
                 <input placeholder="Emai Address" type="email"/>
                 <p>By subscribing , you Agree our terms<br/> of use and privacy policy and conditions !</p>
@@ -48,7 +48,7 @@ const Footer = () => {
 
             </footer>
             <hr/>
-            <div class="copyright">
+            <div className="copyright">
             <span>COPY RIGHT © 2024 ALL RIGHTS RESERVED-Designed By Kasra Torabi Mansour</span>
             </div>
     </div>

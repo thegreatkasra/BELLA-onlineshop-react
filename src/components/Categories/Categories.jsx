@@ -28,7 +28,7 @@ const Categories = () => {
                         <img src={KNITWEAR} />
                     </div>
                     <div className="info">
-                        <span class="text">KNITWEAR</span>
+                        <span className="text">KNITWEAR</span>
                     </div>
                 </div>
 
@@ -37,60 +37,60 @@ const Categories = () => {
                         <img src={CLOTHING} />
                     </div>
                     <div className="info">
-                        <span class="text">CLOTHING</span>
+                        <span className="text">CLOTHING</span>
                     </div>
                 </div>
-                <div class="card">
-                        <div class="pic">
+                <div className="card">
+                        <div className="pic">
                             <img src={HANDBAG} />
                         </div>
-                        <div class="info">
-                            <span class="text">HANDBAG</span>
+                        <div className="info">
+                            <span className="text">HANDBAG</span>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="pic">
+                    <div className="card">
+                        <div className="pic">
                             <img src={SCARF} />
                         </div>
-                        <div class="info">
-                            <span class="text">SCARF</span>
+                        <div className="info">
+                            <span className="text">SCARF</span>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="pic">
+                    <div className="card">
+                        <div className="pic">
                             <img src={DRESSES} />
                         </div>
-                        <div class="info">
-                            <span class="text">DRESSES</span>
+                        <div className="info">
+                            <span className="text">DRESSES</span>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="pic">
+                    <div className="card">
+                        <div className="pic">
                             <img src={ACCESORIES} />
                         </div>
-                        <div class="info">
-                            <span class="text">ACCESORIES</span>
+                        <div className="info">
+                            <span className="text">ACCESORIES</span>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="pic">
+                    <div className="card">
+                        <div className="pic">
                             <img src={JEWERLY} />
                         </div>
-                        <div class="info">
-                            <span class="text">JEWERLY</span>
+                        <div className="info">
+                            <span className="text">JEWERLY</span>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="pic">
+                    <div className="card">
+                        <div className="pic">
                             <img src={FOOTWEARS} />
                         </div>
-                        <div class="info">
-                            <span class="text">FOOTWEARS</span>
+                        <div className="info">
+                            <span className="text">FOOTWEARS</span>
                         </div>
                     </div>
                 

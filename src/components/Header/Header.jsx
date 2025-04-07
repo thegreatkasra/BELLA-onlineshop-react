@@ -41,7 +41,7 @@ const Header = () => {
                     <a href="#"><img src={bascket} alt="buy"/></a>
                     <a href="#"><img src={fav} alt="favorites"/></a>
                     <a href="#"><img src={search} alt="search"/></a>
-                    <a href="./Account.html"><img src={account} alt="account"/></a>
+                    <Link to="/account" ><img src={account} alt="account"/></Link>
                 </div>
             
         </div>

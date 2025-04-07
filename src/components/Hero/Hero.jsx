@@ -2,8 +2,8 @@ import React from 'react'
 import './Hero.css'
 
 
-import heromobile from '../../assets/heromobile.png'
-import heroo from '../../assets/hero.png'
+import heromobile from '../../assets/heromobile.webp'
+import heroo from '../../assets/hero.webp'
 
 const Hero = () => {
   return (
@@ -20,5 +20,6 @@ const Hero = () => {
     </div>
   )
 }
+
 
 export default Hero;
